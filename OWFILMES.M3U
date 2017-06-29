@@ -1,51 +1,51 @@
 #EXTM3U
-#EXTINF:0, tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/90/95/62/20122008.jpg",DE VOLTA PARA O FUTURO - 1985
+#EXTINF:-1, tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/90/95/62/20122008.jpg",DE VOLTA PARA O FUTURO - 1985
 http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/DVLTPROFUT1.mp4
 
-#EXTINF:0, tvg-logo="http://mlb-s2-p.mlstatic.com/14119-MLB2909647595_072012-O.jpg", DE VOLTA PARA O FUTURO 2 - 1989
+#EXTINF:-1, tvg-logo="http://mlb-s2-p.mlstatic.com/14119-MLB2909647595_072012-O.jpg", DE VOLTA PARA O FUTURO 2 - 1989
 http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/DVLTPROFUT2.mp4
 
-#EXTINF:0, tvg-logo="https://http2.mlstatic.com/3-posters-med-imp-pfoto-da-tril-de-volta-para-o-futuro-D_NQ_NP_13860-MLB3783390208_022013-F.jpg", DE VOLTA PARA O FUTURO 3 - 1990
+#EXTINF:-1, tvg-logo="https://http2.mlstatic.com/3-posters-med-imp-pfoto-da-tril-de-volta-para-o-futuro-D_NQ_NP_13860-MLB3783390208_022013-F.jpg", DE VOLTA PARA O FUTURO 3 - 1990
 http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/DVLTPROFUT3.mp4
 
-#EXTINF:0, tvg-logo="http://www.queroposters.com.br/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/c/1/c1113-poster-hobbit.jpg", O HOBBIT: UMA JORNADA INESPERADA - 2012
+#EXTINF:-1, tvg-logo="http://www.queroposters.com.br/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/c/1/c1113-poster-hobbit.jpg", O HOBBIT: UMA JORNADA INESPERADA - 2012
 http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/OHBTUJRNINSPRD.mp4
 
-#EXTINF:0,tvg-logo="https://static.omelete.uol.com.br/media/extras/conteudos/conteudo_77988.jpg", O HOBBIT: A DESOLAÇÃO DE SMAUG - 2013
+#EXTINF:-1,tvg-logo="https://static.omelete.uol.com.br/media/extras/conteudos/conteudo_77988.jpg", O HOBBIT: A DESOLAÇÃO DE SMAUG - 2013
 http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/OHBTADSLCDSMG.mp4
 
-#EXTINF:0,tvg-logo="https://static.omelete.uol.com.br/media/extras/conteudos/conteudo_89142.jpg", O HOBBIT: A BATALHA DOS CINCO EXÉRCITOS - 2014
+#EXTINF:-1,tvg-logo="https://static.omelete.uol.com.br/media/extras/conteudos/conteudo_89142.jpg", O HOBBIT: A BATALHA DOS CINCO EXÉRCITOS - 2014
 http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/OHBTABTLHDSCNCEXRCTS.mp4
 
-#EXTINF:0,tvg-logo="http://br.web.img2.acsta.net/r_1280_720/medias/nmedia/18/92/91/32/20224832.jpg",O SENHOR DOS ANÉIS: A SOCIEDADE DO ANEL - 2001
+#EXTINF:-1,tvg-logo="http://br.web.img2.acsta.net/r_1280_720/medias/nmedia/18/92/91/32/20224832.jpg",O SENHOR DOS ANÉIS: A SOCIEDADE DO ANEL - 2001
 http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/OSNHRDSANSASCEDDANL.mp4
 
-#EXTINF:0,tvg-logo="http://lucasaraujobrasil.com.br/wp-content/uploads/2016/05/Poster1.jpg",O SENHOR DOS ANÉIS: AS DUAS TORRES - 2002
+#EXTINF:-1,tvg-logo="http://lucasaraujobrasil.com.br/wp-content/uploads/2016/05/Poster1.jpg",O SENHOR DOS ANÉIS: AS DUAS TORRES - 2002
 http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/OSNHRDSANSASDSTRS.mp4
 
-#EXTINF:0,tvg-logo="http://br.web.img3.acsta.net/r_1280_720/medias/nmedia/18/87/16/07/19895812.jpg",O SENHOR DOS ANÉIS: O RETORNO DO REI - 2003
+#EXTINF:-1,tvg-logo="http://br.web.img3.acsta.net/r_1280_720/medias/nmedia/18/87/16/07/19895812.jpg",O SENHOR DOS ANÉIS: O RETORNO DO REI - 2003
 http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/OSNHRDSANSORTNDREI.mp4
 
-#EXTINF:0,tvg-logo="https://www.megafilmesserieshd.com/wp-content/uploads/2016/03/1.jpeg",STAR WARS: EPISÓDIO I - A AMEAÇA FANTASMA - 1999
+#EXTINF:-1,tvg-logo="https://www.megafilmesserieshd.com/wp-content/uploads/2016/03/1.jpeg",STAR WARS: EPISÓDIO I - A AMEAÇA FANTASMA - 1999
 http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/STRWRSI.mp4
 
-#EXTINF:0,tvg-logo="http://filmesegames.com.br/wp-content/uploads/2015/07/20207108.jpg-r_640_600-b_1_D6D6D6-f_jpg-q_x-xxyxx.jpg",STAR WARS: EPISÓDIO II - ATAQUE DOS CLONES - 2002
+#EXTINF:-1,tvg-logo="http://filmesegames.com.br/wp-content/uploads/2015/07/20207108.jpg-r_640_600-b_1_D6D6D6-f_jpg-q_x-xxyxx.jpg",STAR WARS: EPISÓDIO II - ATAQUE DOS CLONES - 2002
 http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/STRWRSII.mp4
 
-#EXTINF:0,tvg-logo="http://br.web.img3.acsta.net/r_1280_720/medias/nmedia/18/92/58/33/20207204.jpg",STAR WARS: EPISÓDIO III - A VINGANÇA DOS SITH - 2005
+#EXTINF:-1,tvg-logo="http://br.web.img3.acsta.net/r_1280_720/medias/nmedia/18/92/58/33/20207204.jpg",STAR WARS: EPISÓDIO III - A VINGANÇA DOS SITH - 2005
 http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/STRWRSIII.mp4
 
-#EXTINF:0,tvg-logo="http://a.dilcdn.com/bl/wp-content/uploads/sites/6/2016/10/rogueone_onesheetA.jpg",STAR WARS: ROGUE ONE - 2016
+#EXTINF:-1,tvg-logo="http://a.dilcdn.com/bl/wp-content/uploads/sites/6/2016/10/rogueone_onesheetA.jpg",STAR WARS: ROGUE ONE - 2016
 https://video.googleusercontent.com/AIYf0t4IT7OXMGdb8uJE2ikSbijSIdg1-_g7DElsQHVKvMOlg4seD2ZWwfZOGtKIrxAusvS47eq6CXBgi83p3wKZgkoH_uHc46d6a1bZqlatkkd4Txtn1X2aCfjJTC4WrGDSIHcQ3ZfnRmMqhzdYGdga1J0mJjOUSUEthSK4xlmPZAvbVTsohUI
 
-#EXTINF:0,tvg-logo="http://4.bp.blogspot.com/-CCsZD_CsM48/Uh5SWdSXyBI/AAAAAAAAAzo/Ze9c3Id6SVQ/s1600/Star+Wars+-+Episodio+4+-+Uma+Nova+Esperanca.jpg",STAR WARS: EPISÓDIO IV: UMA NOVA ESPERANÇA - 1978
+#EXTINF:-1,tvg-logo="http://4.bp.blogspot.com/-CCsZD_CsM48/Uh5SWdSXyBI/AAAAAAAAAzo/Ze9c3Id6SVQ/s1600/Star+Wars+-+Episodio+4+-+Uma+Nova+Esperanca.jpg",STAR WARS: EPISÓDIO IV: UMA NOVA ESPERANÇA - 1978
 http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/STRWRSIV.mp4
 
-#EXTINF:0,tvg-logo="http://3.bp.blogspot.com/-wCZJSUxLNtc/Uh5Uow5_kgI/AAAAAAAAAz0/VBiVbaiBq68/s1600/Star+Wars+-+Episodio+5+-+O+Imperio+Contra+Ataca.jpg",STAR WARS: EPISÓDIO V: O IMPÉRIO CONTRA-ATACA - 1980
+#EXTINF:-1,tvg-logo="http://3.bp.blogspot.com/-wCZJSUxLNtc/Uh5Uow5_kgI/AAAAAAAAAz0/VBiVbaiBq68/s1600/Star+Wars+-+Episodio+5+-+O+Imperio+Contra+Ataca.jpg",STAR WARS: EPISÓDIO V: O IMPÉRIO CONTRA-ATACA - 1980
 http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/STRWRSV.mp4
 
-#EXTINF:0,tvg-logo="http://br.web.img3.acsta.net/pictures/14/05/19/22/57/276761.jpg",STAR WARS: EPISÓDIO VI: O RETORNO DE JEDI - 1983
+#EXTINF:-1,tvg-logo="http://br.web.img3.acsta.net/pictures/14/05/19/22/57/276761.jpg",STAR WARS: EPISÓDIO VI: O RETORNO DE JEDI - 1983
 http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/STRWRSVI.mp4
 
-#EXTINF:0,tvg-logo="https://www.vitralizado.com/wp-content/uploads/2015/10/EpVII.jpg",STAR WARS: EPISÓDIO VII: O DESPERTAR DA FORÇA - 2015
+#EXTINF:-1,tvg-logo="https://www.vitralizado.com/wp-content/uploads/2015/10/EpVII.jpg",STAR WARS: EPISÓDIO VII: O DESPERTAR DA FORÇA - 2015
 http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/STRWRSVII.mp4
