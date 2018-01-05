@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/90/90/21/20119166.jpg" group-title="FILMES", GUIA DO MOCHILEIRO DAS GALÁXIAS
-hhttp://ic-c916d300-00ed76-5bjdobr.s.loris.llnwd.net/RedeCanais/RedeCanais/RCFServer4/ondemand/OGUIADMCHLEIRDSGAL.mp4
+http://ic-c916d300-00ed76-5bjdobr.s.loris.llnwd.net/RedeCanais/RedeCanais/RCFServer4/ondemand/OGUIADMCHLEIRDSGAL.mp4
 
 #EXTINF:-1 tvg-logo="https://poltronanerd.com.br/wp-content/uploads/2017/02/poltrona-bright-770x405.png" group-title="FILMES", BRIGHT
 http://ic-c916d300-0778b2-5bjdobr.s.loris.llnwd.net/RedeCanais/RedeCanais/RCFServer4/ondemand/BRGHT.mp4
