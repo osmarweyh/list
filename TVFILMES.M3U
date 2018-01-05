@@ -1,16 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES", O CULTO DE CHUCKY
-https://goo.gl/djmjwx
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES", ANABELLE
-https://goo.gl/F3ULs6
-
-#EXTINF:-1 tvg-logo="" group-title="FILMES", TORRE NEGRA
-https://goo.gl/mXMNtp
-
-#EXTINF:-1 tvg-logo="" group-title="FILMES", PLANETA DOS MACACOS
-https://goo.gl/Grz8Ew
 
 #EXTINF:-1 tvg-logo="https://goo.gl/Z0PIkq" group-title="GAME OF THRONES", GOT T1|EP1
 http://zeus.netcine.tv/sobdemanda/netcine-bucket/got/01dub/01-ALTO.mp4
@@ -151,60 +141,17 @@ http://zeus.netcine.tv/httpdelivery/got/07dub/05-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Z0PIkq" group-title="GAME OF THRONES", GOT T7|EP6
 http://zeus.netcine.tv/httpdelivery/got/07dub/S06-ALTO.mp4
 
-#EXTINF:-1 tvg-logo="https://goo.gl/Z0PIkq" group-title="GAME OF THRONES", GOT T7|EP1 (LEG)
-http://zeus.netcine.tv/httpdelivery/got/07leg/01-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/Z0PIkq" group-title="GAME OF THRONES", GOT T7|EP2 (LEG)
-http://zeus.netcine.tv/httpdelivery/got/07leg/002-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/Z0PIkq" group-title="GAME OF THRONES", GOT T7|EP3 (LEG)
-http://zeus.netcine.tv/httpdelivery/got/07leg/0003-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/Z0PIkq" group-title="GAME OF THRONES", GOT T7|EP4 (LEG)
-http://zeus.netcine.tv/httpdelivery/got/07leg/004-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/Z0PIkq" group-title="GAME OF THRONES", GOT T7|EP5 (LEG)
-http://zeus.netcine.tv/httpdelivery/got/07leg/005-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/Z0PIkq" group-title="GAME OF THRONES", GOT T7|EP6 (LEG)
-http://zeus.netcine.tv/httpdelivery/got/07leg/S07E06-ALTO.mp4
-
-#EXTINF:-1,01 Rick and Morty
-http://www.blogger.com/video-play.mp4?contentId=7ae007d43b3587a5
-#EXTINF:-1,02 Rick and Morty
-http://www.blogger.com/video-play.mp4?contentId=2778c58de0ac242c
-#EXTINF:-1,03 Rick and Morty
-http://www.blogger.com/video-play.mp4?contentId=920ad4bc48693ac6
-#EXTINF:-1,04 Rick and Morty
-http://www.blogger.com/video-play.mp4?contentId=da4bcd0c47b089ac
-#EXTINF:-1,05 Rick and Morty
-http://www.blogger.com/video-play.mp4?contentId=878fea8dd41c3e02
-#EXTINF:-1,06 Rick and Morty
-http://www.blogger.com/video-play.mp4?contentId=36685a910418bfbc
-#EXTINF:-1,07 Rick and Morty
-http://www.blogger.com/video-play.mp4?contentId=274935f9ae9f8b65
-#EXTINF:-1,08 Rick and Morty
-http://www.blogger.com/video-play.mp4?contentId=a7b1bd2e4e3189e5
-#EXTINF:-1,09 Rick and Morty
-http://www.blogger.com/video-play.mp4?contentId=9a107669793feacd
-#EXTINF:-1,10 Rick and Morty
-http://www.blogger.com/video-play.mp4?contentId=a1b2a55a5b0ca2d4
-#EXTINF:-1,11 Rick and Morty
-http://www.blogger.com/video-play.mp4?contentId=3a6a6d84bcfa02a2
-#EXTINF:-1,12 Rick and Morty
-http://www.blogger.com/video-play.mp4?contentId=3e6ef25b23fad174
-#EXTINF:-1,13 Rick and Morty
-http://www.blogger.com/video-play.mp4?contentId=9d43b5a40e836741
-#EXTINF:-1,14 Rick and Morty
-http://www.blogger.com/video-play.mp4?contentId=e6140ca69ba96cb6
-#EXTINF:-1,15 Rick and Morty
-http://www.blogger.com/video-play.mp4?contentId=d371d409981531c0
-#EXTINF:-1,16 Rick and Morty
-http://www.blogger.com/video-play.mp4?contentId=63be63f46940a478
-#EXTINF:-1,17 Rick and Morty
-http://www.blogger.com/video-play.mp4?contentId=564165578da00b87
-#EXTINF:-1,18 Rick and Morty
-http://www.blogger.com/video-play.mp4?contentId=16badfa816c23264
-#EXTINF:-1,19 Rick and Morty
-http://www.blogger.com/video-play.mp4?contentId=2bfed74b35f83ec8
-#EXTINF:-1,20 Rick and Morty
-http://www.blogger.com/video-play.mp4?contentId=dffbb59c92a224ff
-#EXTINF:-1,21 Rick and Morty
-http://www.blogger.com/video-play.mp4?contentId=714140cd4ad528d2
-
-
+#EXTINF:-1 tvg-logo="https://goo.gl/Z0PIkq" group-title="GAME OF THRONES", GOT T7|EP1
+http://cdnv14.ec.cx/RedeCanais/RCServer05/ondemand/GMOFTRT07EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Z0PIkq" group-title="GAME OF THRONES", GOT T7|EP2
+http://cdnv14.ec.cx/RedeCanais/RCServer05/ondemand/GMOFTRT07EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Z0PIkq" group-title="GAME OF THRONES", GOT T7|EP3
+http://cdnv14.ec.cx/RedeCanais/RCServer05/ondemand/GMOFTRT07EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Z0PIkq" group-title="GAME OF THRONES", GOT T7|EP4
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/GMOFTRT07EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Z0PIkq" group-title="GAME OF THRONES", GOT T7|EP5
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/GMOFTRT07EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Z0PIkq" group-title="GAME OF THRONES", GOT T7|EP6
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/GMOFTRT07EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/Z0PIkq" group-title="GAME OF THRONES", GOT T7|EP7
+http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/GMOFTRT07EP07.mp4
