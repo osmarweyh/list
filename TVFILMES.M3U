@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/90/90/21/20119166.jpg" group-title="FILMES", GUIA DO MOCHILEIRO DAS GALÁXIAS
-http://ic-c916d300-00ed76-5bjdobr.s.loris.llnwd.net/RedeCanais/RedeCanais/RCFServer4/ondemand/OGUIADMCHLEIRDSGAL.mp4
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/OGUIADMCHLEIRDSGAL.mp4
 
 #EXTINF:-1 tvg-logo="https://poltronanerd.com.br/wp-content/uploads/2017/02/poltrona-bright-770x405.png" group-title="FILMES", BRIGHT
-http://ic-c916d300-0778b2-5bjdobr.s.loris.llnwd.net/RedeCanais/RedeCanais/RCFServer4/ondemand/BRGHT.mp4
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/BRGHT.mp4
 
 #EXTINF:-1 tvg-logo="http://imgsapp2.correiobraziliense.com.br/app/noticia_127983242361/2017/08/08/616180/20170808173551211892o.jpg" group-title="FILMES", MÃE
-http://ic-c916d300-04dad5-5bjdobr.s.loris.llnwd.net/RedeCanais/RedeCanais/RCFServer4/ondemand/MAE.mp4
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/MAE.mp4
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-tgGbCgIx4-I/V5tAa-Dsz2I/AAAAAAAACyQ/VHq1PfsbtsI1u_8x6Z1A6x2toW-jjeUfQCLcB/s1600/As%2BTorres%2BG%25C3%25AAmeas-filme-online.jpg" group-title="FILMES", AS TORRES GÊMEAS
 http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ASTRSGMS.mp4
@@ -19,14 +19,18 @@ http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ORGRSODUB.mp4
 http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/MALVLA.mp4
 
 #EXTINF:-1 tvg-logo="http://www.filmesonlinegratis.com/wp-content/uploads/2017/12/13-2-214x300.jpg" group-title="FILMES", UMA FAMÍLIA FELIZ
-https://1fgm90n.oloadcdn.net/dl/l/oiR9IQQt16qbr9zt/I2Hm4JPYelc/UM4F4MF3L1ZDUB.mp4
-
+http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/UMAFMLFLZ.mp4
 
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/14/10/10/10/35/135992.jpg" group-title="FILMES", O JARDIM DOS ESQUECIDOS
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OJRDIMDOSESQUCDS.mp4
 
 #EXTINF:-1 tvg-logo="http://playthepiratedownload.com/wp-content/uploads/2017/10/1pXZo8DNY1C6CnDZyDtTsnTcZsn-185x278.jpg" group-title="FILMES", ESPINHOS DO MAL
-https://ph2dpf.oloadcdn.net/dl/l/QdZq8uuTPqdJ-S2O/7-zxkP8x_mA/0s.3sp1nh0s.d0.M4l.2015.HDTV.Dublado.avi.mp4
+http://oqt1ok.oloadcdn.net/dl/l/RDuUizsgWBqYqfG1/OKJXEOauuvA/If.There.Be.Thorns.2015.avi.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/03/14/16/53/219901.jpg" group-title="FILMES", SEMENTES DO PASSADO
+https://1fgm909.oloadcdn.net/dl/l/WgKpzFJpEXZkDn5W/g8n9dGxODkE/Sementes+do+Passado+Dublado+Online.mp4
+
+*******************************************************************************
 
 #EXTINF:-1 tvg-logo="https://www.animesonlinetk.info/wp-content/uploads/2016/06/Star-Wars-A-Guerra-dos-Clones-Dublado-%E2%80%93-Todos-os-Epis%C3%B3dios.jpg" group-title="A GUERRA DOS CLONES", T1|E21
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/STRWRSTCLNWRST01EP21.mp4
