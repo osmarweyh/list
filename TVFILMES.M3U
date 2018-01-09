@@ -15,8 +15,7 @@ http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ASTRSGMS.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/12/17/18/20/090910.jpg" group-title="FILMES", O REGRESSO
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ORGRSODUB.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/ae/Starwars_06.jpg/250px-Starwars_06.jpg" group-title="FILMES", STAR WARS O DESPERTAR DA FORÇA
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/STRWRSVII.mp4
+
 
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/14/10/10/10/35/135992.jpg" group-title="FILMES", O JARDIM DOS ESQUECIDOS
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/OJRDIMDOSESQUCDS.mp4
@@ -214,3 +213,17 @@ http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/GMOFTRT07EP05.mp4
 http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/GMOFTRT07EP06.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/Z0PIkq" group-title="GAME OF THRONES", GOT T7|EP7
 http://cdnv11.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/GMOFTRT07EP07.mp4
+
+
+#EXTINF:-1 tvg-logo="https://nerdist.com/wp-content/uploads/2017/08/Rick-and-Morty-Portal.jpg" group-title="RICK AND MORTY", T3 EP1
+https://oload.stream/embed/9c9LXLwJgf8/www.seriesonlinehd.org.Tchello.R.and.M.LEG.S03E01.mp4
+#EXTINF:-1 tvg-logo="https://nerdist.com/wp-content/uploads/2017/08/Rick-and-Morty-Portal.jpg" group-title="RICK AND MORTY", T3 EP2
+https://oload.stream/embed/J0KRP6KLw50/SeriesOnlineHD.org_-_G4briel720_-_R1c4d0.3.M0rt1.S03E02.720p.Leg.mp4
+#EXTINF:-1 tvg-logo="https://nerdist.com/wp-content/uploads/2017/08/Rick-and-Morty-Portal.jpg" group-title="RICK AND MORTY", T3 EP3
+#EXTINF:-1 tvg-logo="https://nerdist.com/wp-content/uploads/2017/08/Rick-and-Morty-Portal.jpg" group-title="RICK AND MORTY", T3 EP4
+#EXTINF:-1 tvg-logo="https://nerdist.com/wp-content/uploads/2017/08/Rick-and-Morty-Portal.jpg" group-title="RICK AND MORTY", T3 EP5
+#EXTINF:-1 tvg-logo="https://nerdist.com/wp-content/uploads/2017/08/Rick-and-Morty-Portal.jpg" group-title="RICK AND MORTY", T3 EP6
+#EXTINF:-1 tvg-logo="https://nerdist.com/wp-content/uploads/2017/08/Rick-and-Morty-Portal.jpg" group-title="RICK AND MORTY", T3 EP7
+#EXTINF:-1 tvg-logo="https://nerdist.com/wp-content/uploads/2017/08/Rick-and-Morty-Portal.jpg" group-title="RICK AND MORTY", T3 EP8
+#EXTINF:-1 tvg-logo="https://nerdist.com/wp-content/uploads/2017/08/Rick-and-Morty-Portal.jpg" group-title="RICK AND MORTY", T3 EP9
+#EXTINF:-1 tvg-logo="https://nerdist.com/wp-content/uploads/2017/08/Rick-and-Morty-Portal.jpg" group-title="RICK AND MORTY", T3 EP10
