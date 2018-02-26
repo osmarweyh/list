@@ -1,7 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1  group-title="Filmes Dublado"  tvg-logo="https://resizing.flixster.com/HV5BbsAnZeL_s_S2545qvz4mQUA=/206x305/v1.bTsxMTM3MjgyODtqOzE3NjgxOzEyMDA7MTE1MjsxNTM2" group-title="FILMES - LETRA 0", 1984
+http://media-br-am.crackle.com/1/p/f6/75ylf_480p.mp4
+
 #EXTINF:-1 tvg-logo="https://poltronanerd.com.br/wp-content/uploads/2017/02/poltrona-bright-770x405.png" group-title="FILMES - LETRA B", BRIGHT
 http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/BRGHT.mp4
+
+#EXTINF:-1  group-title="Filmes Dublado"  tvg-logo="http://eovideolevou.com.br/imgProduto/35323_f1.jpg" group-title="FILMES - LETRA M",Os Miseraveis
+http://media-br-am.crackle.com/1/p/f6/55ylf_480p.mp4
+
+#EXTINF:-1  group-title="Filmes Dublado"  tvg-logo="" group-title="FILMES - LETRA O, s Pássaros
+http://www.redecanais.net/embed/15de915f7
+
 *******************************************************************
 
 
