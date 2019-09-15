@@ -1,39 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1  group-title="Filmes Dublado"  tvg-logo="https://resizing.flixster.com/HV5BbsAnZeL_s_S2545qvz4mQUA=/206x305/v1.bTsxMTM3MjgyODtqOzE3NjgxOzEyMDA7MTE1MjsxNTM2" group-title="FILMES - LETRA 0", 1984
-http://media-br-am.crackle.com/1/p/f6/75ylf_480p.mp4
+#EXTINF:-1  group-title="Love, Death & Robots"  tvg-logo="https://aohd-first.fluehost.com/images/covers/love-death-&-robots.webp" group-title="", EP1
+https://www1597.hlsmp4.com/token=tRbrJp_bMrgBAVT8KgAQvw/1568519614/191.32.0.0/37/6/4b/57f99153c1adf7872750cd96a57204b6-720p.mp4
 
-#EXTINF:-1 tvg-logo="https://poltronanerd.com.br/wp-content/uploads/2017/02/poltrona-bright-770x405.png" group-title="FILMES - LETRA B", BRIGHT
-http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/BRGHT.mp4
-
-#EXTINF:-1  group-title="Filmes Dublado"  tvg-logo="http://eovideolevou.com.br/imgProduto/35323_f1.jpg" group-title="FILMES - LETRA M",Os Miseraveis
-http://media-br-am.crackle.com/1/p/f6/55ylf_480p.mp4
-
-#EXTINF:-1  group-title="Filmes Dublado"  tvg-logo="" group-title="FILMES - LETRA O", Os Pássaros
-https://rc-v1.filmesonline.top/RedeCanais/RCFServer3/ondemand/OSPSRS.mp4
-
-*******************************************************************
-
-#EXTINF:-1  group-title="Doctor Who"  tvg-logo="https://static.quizur.com/i/b/558b2623ddd215.26489037558b2623c059a0.53793784.jpg" group-title="1X6", Dalek
-https://rc-v2.filmesonline.top/RedeCanais/RCServer05/ondemand/DCTRWHT01EP06.mp4
-
-#EXTINF:-1  group-title="Doctor Who"  tvg-logo="https://goo.gl/UyqwbE" group-title="1X7", O Jogo Longo
-https://rc-v2.filmesonline.top/RedeCanais/RCServer05/ondemand/DCTRWHT01EP07.mp4
-
-#EXTINF:-1  group-title="Doctor Who"  tvg-logo="https://goo.gl/UyqwbE" group-title="1X8", O Jogo Longo
-https://rc-v2.filmesonline.top/RedeCanais/RCServer05/ondemand/DCTRWHT01EP07.mp4
-
-#EXTINF:-1  group-title="Doctor Who"  tvg-logo="https://goo.gl/UyqwbE" group-title="1X9", A Criança Vazia
-https://1fgqfmb.oloadcdn.net/dl/l/BNaajzTS0kWtUUOG/68aBtsIZRE8/Doctor.who.2005.S01E09.480p.Bluray.DUAL.Dinho.mkv.mp4
-
-#EXTINF:-1  group-title="Doctor Who"  tvg-logo="https://goo.gl/UyqwbE" group-title="1X10", O Doutor Dança
-https://pgli8t.oloadcdn.net/dl/l/rOeP_UAz0T_FO7h9/Je2m8uld-4c/Doctor.who.2005.S01E10.480p.mkv.mp4
-
-#EXTINF:-1  group-title="Doctor Who"  tvg-logo="https://goo.gl/UyqwbE" group-title="1X11", Cidade Explosiva
-https://pgli2q.oloadcdn.net/dl/l/CbHFt6MV6OnK-SOc/uiVHCf4NZsg/Doctor.who.2005.S01E11.480p.mkv.mp4
-
-#EXTINF:-1  group-title="Doctor Who"  tvg-logo="https://goo.gl/UyqwbE" group-title="1X12", Lobo Mau
-https://oqbkiq.oloadcdn.net/dl/l/7GE0cLeC4cANZdlL/0zQeQIgz8RI/Doctor.who.2005.S01E12.480p.mkv.mp4
-
-#EXTINF:-1  group-title="Doctor Who"  tvg-logo="https://goo.gl/UyqwbE" group-title="1X13", A Separação dos Caminhos
-https://pgli34.oloadcdn.net/dl/l/41OZs0NvuwJnTFnf/Hm87jbPHq4w/Doctor.who.2005.S01E13.480p.mkv.mp4
