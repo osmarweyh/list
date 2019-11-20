@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1  group-title="Como Treinar o Seu Dragão 3"  tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/18/11/13/12/10/5661398.jpg" group-title="", FILME
-http://cdnfe3.azureedge.net/RCFServer2/ondemand/CMTRNRDRG3.mp4
+#EXTINF:-1  group-title="Mandalorian 01"  tvg-logo="https://mfiles.alphacoders.com/809/809814.jpg" group-title="", SERIE
+http://cdn.netcine.info/html/content/conteudolb4/mandalorian/01leg/001-ALTO.mp4?token=lpzoBOxlR2sGFxoHE_6wJw&expires=1574235175
 
-#EXTINF:-1  group-title="Pets - A Vida Secreta dos Bichos 2"  tvg-logo="http://br.web.img3.acsta.net/pictures/19/02/21/21/43/1733509.jpg" group-title="", FILME
-http://cdnfe3.azureedge.net/RCFServer1/ondemand/PETSAVSCDBS2.mp4
+#EXTINF:-1  group-title="Mandalorian 01"  tvg-logo="https://mfiles.alphacoders.com/809/809814.jpg" group-title="", SERIE
+http://cdn.netcine.info/html/content/conteudolb4/mandalorian/01leg/002-ALTO.mp4?token=lpMhgKRi3yzq1G2L-8W_LQ&expires=1574235390
 
