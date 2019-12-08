@@ -1,5 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1  group-title="Mandalorian 05"  tvg-logo="https://mfiles.alphacoders.com/809/809814.jpg" group-title="", EP-05
+#EXTINF:-1  group-title="Mandalorian 05"  tvg-logo="https://mfiles.alphacoders.com/809/809814.jpg" group-title="SERIES", EP-05
 https://cdn.netcine.info/html/content/conteudolb4/mandalorian/01leg/0005-ALTO.mp4?token=p4SKEoXydXMdMPf3HJNImw&expires=1575871835
+
+#EXTINF:-1  group-title="Transformers: O Último Cavaleiro"  tvg-logo="https://nsc1.global.ssl.fastly.net/wp-content/uploads/2017/09/transformersPoster.jpg" group-title="FILMES", Transformers: O Último Cavaleiro
+https://cdn.netcine.info/html/content/httpdelivery-auth024846/filmes2017/CAVALEIRO2017DUB-ALTO.mp4?token=7oF2BvNfC21s8SoiiczAcw&expires=1575872246
+
+#EXTINF:-1  group-title="John Wick 3: Parabellum"  tvg-logo="https://nsc1.global.ssl.fastly.net/wp-content/uploads/2019/07/0977319.jpg" group-title="FILMES", John Wick 3: Parabellum
+https://cdn.netcine.info/html/content/conteudolb4/filmes2019/JOHNWICK3DUBHDD-ALTO.mp4?token=hGpyMzgzv2yk4HPpWC9-wQ&expires=1575872171
 
