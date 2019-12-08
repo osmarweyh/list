@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1  group-title="Mandalorian 01"  tvg-logo="https://mfiles.alphacoders.com/809/809814.jpg" group-title="", EP-01
-http://cdn.netcine.info/html/content/conteudolb4/mandalorian/01leg/001-ALTO.mp4?token=lpzoBOxlR2sGFxoHE_6wJw&expires=1574235175
-
-#EXTINF:-1  group-title="Mandalorian 01"  tvg-logo="https://mfiles.alphacoders.com/809/809814.jpg" group-title="", EP-02
-http://cdn.netcine.info/html/content/conteudolb4/mandalorian/01leg/002-ALTO.mp4?token=lpMhgKRi3yzq1G2L-8W_LQ&expires=1574235390
+#EXTINF:-1  group-title="Mandalorian 05"  tvg-logo="https://mfiles.alphacoders.com/809/809814.jpg" group-title="", EP-05
+https://cdn.netcine.info/html/content/conteudolb4/mandalorian/01leg/0005-ALTO.mp4?token=p4SKEoXydXMdMPf3HJNImw&expires=1575871835
 
