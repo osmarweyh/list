@@ -1,11 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1  group-title="Mandalorian 05"  tvg-logo="https://mfiles.alphacoders.com/809/809814.jpg" group-title="SERIES", EP-05
-https://cdn.netcine.info/html/content/conteudolb4/mandalorian/01leg/0005-ALTO.mp4?token=p4SKEoXydXMdMPf3HJNImw&expires=1575871835
+https://cdn.netcine.info/html/content/conteudolb4/mandalorian/01leg/0005-ALTO.mp4?token=-nep2ccERx_L2QTnza9qXw&expires=1576351504
 
-#EXTINF:-1  group-title="Transformers: O Último Cavaleiro"  tvg-logo="https://nsc1.global.ssl.fastly.net/wp-content/uploads/2017/09/transformersPoster.jpg" group-title="FILMES", Transformers: O Último Cavaleiro
-https://cdn.netcine.info/html/content/httpdelivery-auth024846/filmes2017/CAVALEIRO2017DUB-ALTO.mp4?token=7oF2BvNfC21s8SoiiczAcw&expires=1575872246
+#EXTINF:-1  group-title="Mandalorian 06"  tvg-logo="https://mfiles.alphacoders.com/809/809814.jpg" group-title="SERIES", EP-06
+https://cdn.netcine.info/html/content/conteudolb4/mandalorian/01leg/006LEG-ALTO.mp4?token=PXOgEUaYYTaPe-ySvUMAnw&expires=1576351601
 
-#EXTINF:-1  group-title="John Wick 3: Parabellum"  tvg-logo="https://nsc1.global.ssl.fastly.net/wp-content/uploads/2019/07/0977319.jpg" group-title="FILMES", John Wick 3: Parabellum
-https://cdn.netcine.info/html/content/conteudolb4/filmes2019/JOHNWICK3DUBHDD-ALTO.mp4?token=hGpyMzgzv2yk4HPpWC9-wQ&expires=1575872171
-
+#EXTINF:-1  group-title="Rick 04"  tvg-logo="https://ovicio.com.br/wp-content/uploads/2019/12/20191211-rickmorty-277x277.jpg" group-title="SERIES", EP-04
+https://cdn.netcine.info/html/content/conteudolb4/rickandmorty/04leg/04-ALTO.mp4?token=jQNjOimYPzu5KukWrI3ytQ&expires=1576351824
