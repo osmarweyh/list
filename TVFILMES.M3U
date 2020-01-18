@@ -1,25 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1  group-title="Mandalorian 05"  tvg-logo="https://mfiles.alphacoders.com/809/809814.jpg" group-title="SERIES", EP-05
-https://cdn.netcine.info/html/content/conteudolb4/mandalorian/01leg/0005-ALTO.mp4?token=-nep2ccERx_L2QTnza9qXw&expires=1576351504
+https://cdn.netcine.info/html/content/conteudolb4/mandalorian/01dub/005-ALTO.mp4?token=tBphd6jJYL7TdTvLS7ZxDA&expires=1579413233&ip=189.27.172.10
 
 #EXTINF:-1  group-title="Mandalorian 06"  tvg-logo="https://mfiles.alphacoders.com/809/809814.jpg" group-title="SERIES", EP-06
-https://cdn.netcine.info/html/content/conteudolb4/mandalorian/01leg/006LEG-ALTO.mp4?token=PXOgEUaYYTaPe-ySvUMAnw&expires=1576351601
+https://cdn.netcine.info/html/content/conteudolb4/mandalorian/01dub/06DUB-ALTO.mp4?token=fOS65OwZ9n1eguyTnKXkMQ&expires=1579413302&ip=189.27.172.10
 
-#EXTINF:-1  group-title="Rick 04"  tvg-logo="https://ovicio.com.br/wp-content/uploads/2019/12/20191211-rickmorty-277x277.jpg" group-title="SERIES", EP-04
-https://cdn.netcine.info/html/content/conteudolb4/rickandmorty/04leg/04-ALTO.mp4?token=jQNjOimYPzu5KukWrI3ytQ&expires=1576351824
+#EXTINF:-1  group-title="Mandalorian 07"  tvg-logo="https://mfiles.alphacoders.com/809/809814.jpg" group-title="SERIES", EP-07
+https://cdn.netcine.info/html/content/conteudolb4/mandalorian/01dub/07DUB-ALTO.mp4?token=MnxQn1HZuS-ynLPp4i9F6w&expires=1579413333&ip=189.27.172.10
 
-#EXTINF:-1  group-title="Conde de Monte"  tvg-logo="https://media.fstatic.com/NL6ACZnXIm8tFif_6cu_c23UiFw=/fit-in/290x478/smart/media/movies/covers/2012/01/362a6eff2d20f86f63d60747cad200c0.jpg" group-title="FILMES", CONDE
-https://www1853.hlsmp4.com/token=3-PEkGDF6HLTBVXr13nWoQ/1577850039/191.35.0.0/62/d/a1/64692ed7e5820af527ca05585d150a1d-720p.mp4
-
-#EXTINF:-1  group-title="La La Land"  tvg-logo="https://img.elo7.com.br/product/main/265F027/big-poster-filme-la-la-land-lo01-tamanho-90x60-cm-poster-de-filme.jpg" group-title="FILMES", La La Land
-https://d1dfcekpj06jfh.cloudfront.net/RCFServer4/ondemand/UMHMNDFML2000.mp4
-
-#EXTINF:-1  group-title="Rei Leão"  tvg-logo="https://nsc1.global.ssl.fastly.net/wp-content/uploads/2018/11/images-7.jpg" group-title="FILMES", Rei Leão
-https://cdn.netcine.info/html/content/conteudolb/filmes2018/OREILEAO1DUB-ALTO.mp4?token=i9U4S6h1pdCehP4LEof7hw&expires=1577944549
-
-#EXTINF:-1  group-title="Rei Leão"  tvg-logo="https://nsc1.global.ssl.fastly.net/wp-content/uploads/2019/10/o-novo-poster-de-o-rei-leao-1557252821343_v2_450x600.jpg" group-title="FILMES", Rei Leão
-https://cdn.netcine.info/html/content/conteudolb4/filmes2019/OREILEAODUB-ALTO.mp4?token=Yi-7AE5a8L3kTtUXDCf80g&expires=1577944603&ip=191.35.219.17
-
-#EXTINF:-1  group-title="Homem de Família"  tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/95/31/01/20395734.jpg" group-title="FILMES", Homem de Família
-https://d1dfcekpj06jfh.cloudfront.net/RCFServer4/ondemand/UMHMNDFML2000.mp4
+#EXTINF:-1  group-title="Mandalorian 08"  tvg-logo="https://mfiles.alphacoders.com/809/809814.jpg" group-title="SERIES", EP-08
+https://cdn.netcine.info/html/content/conteudolb4/mandalorian/01dub/08DUB-ALTO.mp4?token=TvCW3lrt_cIeVH2xrSEGjA&expires=1579413362&ip=189.27.172.10
