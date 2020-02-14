@@ -1,13 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1  group-title="Mandalorian 05"  tvg-logo="https://mfiles.alphacoders.com/809/809814.jpg" group-title="SERIES", EP-05
-https://cdn.netcine.info/html/content/conteudolb4/mandalorian/01dub/005-ALTO.mp4?token=tBphd6jJYL7TdTvLS7ZxDA&expires=1579413233&ip=189.27.172.10
-
-#EXTINF:-1  group-title="Mandalorian 06"  tvg-logo="https://mfiles.alphacoders.com/809/809814.jpg" group-title="SERIES", EP-06
-https://cdn.netcine.info/html/content/conteudolb4/mandalorian/01dub/06DUB-ALTO.mp4?token=fOS65OwZ9n1eguyTnKXkMQ&expires=1579413302&ip=189.27.172.10
-
-#EXTINF:-1  group-title="Mandalorian 07"  tvg-logo="https://mfiles.alphacoders.com/809/809814.jpg" group-title="SERIES", EP-07
-https://cdn.netcine.info/html/content/conteudolb4/mandalorian/01dub/07DUB-ALTO.mp4?token=MnxQn1HZuS-ynLPp4i9F6w&expires=1579413333&ip=189.27.172.10
-
-#EXTINF:-1  group-title="Mandalorian 08"  tvg-logo="https://mfiles.alphacoders.com/809/809814.jpg" group-title="SERIES", EP-08
-https://cdn.netcine.info/html/content/conteudolb4/mandalorian/01dub/08DUB-ALTO.mp4?token=TvCW3lrt_cIeVH2xrSEGjA&expires=1579413362&ip=189.27.172.10
+#EXTINF:-1  group-title="Demon"  tvg-logo="" group-title="SERIES", EP-000
+http://cdn02.fluehost.com/a/demon-slayer-kimetsu-no-yaiba/hd/episodio-001-hd.mp4
