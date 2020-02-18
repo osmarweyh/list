@@ -1,7 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1  group-title="Demon"  tvg-logo="" group-title="SERIES", EP-001
-http://cdn02.fluehost.com/a/demon-slayer-kimetsu-no-yaiba/hd/episodio-001-hd.mp4
+#EXTINF:-1  group-title="Demon"  tvg-logo="" group-title="SERIES", EP-003
+http://cdn03.fluehost.com/a/demon-slayer-kimetsu-no-yaiba/hd/episodio-003-hd.mp4
 
-#EXTINF:-1  group-title="Demon"  tvg-logo="" group-title="SERIES", EP-002
-http://cdn02.fluehost.com/a/demon-slayer-kimetsu-no-yaiba/hd/002-hd.mp4
+#EXTINF:-1  group-title="Demon"  tvg-logo="" group-title="SERIES", EP-004
+http://cdn03.fluehost.com/a/demon-slayer-kimetsu-no-yaiba/hd/kmepisodio-004-hd.mp4
+
+#EXTINF:-1  group-title="Demon"  tvg-logo="" group-title="SERIES", EP-005
+http://cdn03.fluehost.com/a/demon-slayer-kimetsu-no-yaiba/hd/episodio-05-hd.mp4
