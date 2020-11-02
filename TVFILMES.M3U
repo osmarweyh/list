@@ -1,13 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1  group-title="MOVIE"  tvg-logo="" group-title="", Enola Homes
-https://brasil.azureedge.net/RCFServer5/ondemand/ENLOHLMS.mp4?attachment=true
-
-#EXTINF:-1  group-title="MOVIE"  tvg-logo="" group-title="", Caçador
-https://cdn.netcine.info/html/content/conteudolb4/filmes2020/CONTOSDOCACADORDESOMBRASDUB-ALTO.mp4
-
-#EXTINF:-1  group-title="MOVIES"  tvg-logo="" group-title="", Addams
-https://brasil.azureedge.net/RCFServer3/ondemand/AFMLADMSDSNHO.mp4
-
-#EXTINF:-1  group-title="MOVIES"  tvg-logo="" group-title="", Addams
-https://brasil.azureedge.net/RCFServer3/ondemand/AFMLADMSDSNHO.mp4
+#EXTINF:-1  group-title="SERIE"  tvg-logo="https://imgs.netcine.info/wp-content/uploads/2019/12/the-mandalorian-2.jpg" group-title="SERIE", MANDALORIAN
+https://cdn.netcine.info/html/content/conteudolb4/mandalorian/02dub/01-ALTO.mp4?token=ljByWgi7mwD9o3gZaBW1lg&expires=1604381088&ip=186.213.144.48
