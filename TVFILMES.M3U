@@ -3,5 +3,8 @@
 #EXTINF:-1  group-title="SERIE"  tvg-logo="https://imgs.netcine.info/wp-content/uploads/2019/12/the-mandalorian-2.jpg" group-title="SERIE", MANDALORIAN
 https://cdn.netcine.info/html/content/conteudolb4/mandalorian/02leg/01-ALTO.mp4?token=QavEKFkOpay4KImLhQVqOQ&expires=1604387566&ip=186.213.144.48
 
-#EXTINF:-1  group-title="MOVIE"  tvg-logo="https://imgs.netcine.info/wp-content/uploads/2019/11/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR006741000_AL_.jpg" group-title="MOVIE", CORINGA
-https://cdn.netcine.info/html/content/conteudolb4/filmes2019/CORINGAWDUB-ALTO.mp4?token=YySJlgWpA1evBr9wDthltw&expires=1604387706&ip=186.213.144.48
+#EXTINF:-1  group-title="MOVIE"  tvg-logo="https://cdn.culturagenial.com/imagens/cartaz-de-v-de-vinganca-cke.jpg" group-title="MOVIE", V de Vingança
+https://top.azureedge.net/RCFServer1/ondemand/VDVNGNCA.mp4?attachment=true
+
+#EXTINF:-1  group-title="MOVIE"  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5b/Closer_p%C3%B4ster.jpg" group-title="MOVIE", V de Vingança
+https://top.azureedge.net/RCFServer1/ondemand/CLSRPRTDMS.mp4?attachment=true
