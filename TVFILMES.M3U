@@ -1,7 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1  group-title="SERIE"  tvg-logo="https://imgs.netcine.info/wp-content/uploads/2019/12/the-mandalorian-2.jpg" group-title="SERIE", MANDALORIAN
-https://top.azureedge.net/RCServer04/ondemand/OMNDLRNOSTRWRSS02EP02.mp4?attachment=true
+#EXTINF:-1  group-title="SERIE"  tvg-logo="https://imgs.netcine.info/wp-content/uploads/2019/12/the-mandalorian-2.jpg" group-title="SERIE" subtitles="https://drive.google.com/file/d/1plUQ6dNW4etQ_SGGlI6u4jpE8v_1qJ0t/view?usp=sharing", MANDALORIAN
+#EXTBG: #fffb00
+https://kpswphwbmx.mstreamcdn.com/h/eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MDU0Mjc4NDEsImRhdGEiOlsiMTkxLjMyLjQwLjIzOSIsIjBobzdpODdjYm0yYiIsIm4iLDFdfQ.iJNQzMuQgL1uTS9hyG_r7uW4UIzXg8U4P6RY7EHyMBU.mp4
 
 #EXTINF:-1  group-title="MOVIE"  tvg-logo="https://2.bp.blogspot.com/_oeGaAH6Pne8/TS2Lef7pwEI/AAAAAAAAAV4/sEjN8-4mq10/s1600/1984-film.jpg" group-title="MOVIE", 1984
 https://ia801901.us.archive.org/5/items/Filme1984GeorgeOrwellDubladoConhecimentoEhPoderByN1ngGg3n/Filme%201984%20George%20Orwell%20-%20Dublado%20-%20ConhecimentoEhPoder%20-%20By%20N1ngGg3n%20.mp4
