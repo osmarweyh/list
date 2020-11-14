@@ -1,7 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1  group-title="SERIE"  tvg-logo="https://imgs.netcine.info/wp-content/uploads/2019/12/the-mandalorian-2.jpg" group-title="SERIE" subtitles="https://drive.google.com/file/d/1plUQ6dNW4etQ_SGGlI6u4jpE8v_1qJ0t/view?usp=sharing", MANDALORIAN
-#EXTBG: #fffb00
+#EXTINF:0  group-title="SERIE"  tvg-logo="https://imgs.netcine.info/wp-content/uploads/2019/12/the-mandalorian-2.jpg" subtitles="https://raw.githubusercontent.com/osmarweyh/list/master/S02E03.srt", MANDALORIAN
 https://kpswphwbmx.mstreamcdn.com/h/eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MDU0Mjc4NDEsImRhdGEiOlsiMTkxLjMyLjQwLjIzOSIsIjBobzdpODdjYm0yYiIsIm4iLDFdfQ.iJNQzMuQgL1uTS9hyG_r7uW4UIzXg8U4P6RY7EHyMBU.mp4
 
 #EXTINF:-1  group-title="MOVIE"  tvg-logo="https://2.bp.blogspot.com/_oeGaAH6Pne8/TS2Lef7pwEI/AAAAAAAAAV4/sEjN8-4mq10/s1600/1984-film.jpg" group-title="MOVIE", 1984
