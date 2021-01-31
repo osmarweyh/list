@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:0  group-title="SERIE"  tvg-logo="https://imgs.netcine.biz/wp-content/uploads/2021/01/wandavision-poster-691x1024.jpg" subtitles="", MWANDA 01
-https://cdn.netcine.biz/html/content/conteudolb4/wv/01dub/WANDAVISION01DUB-ALTO.mp4?token=x8Zn4w9_X1XiAaUZ50EsZw&expires=1612159989&ip=189.27.228.21
+https://cdn.netcine.biz/html/content/conteudolb4/wv/01dub/WANDAVISION01DUB-ALTO.mp4
 
 #EXTINF:0  group-title="SERIE"  tvg-logo="https://imgs.netcine.biz/wp-content/uploads/2021/01/wandavision-poster-691x1024.jpg" subtitles="", MWANDA 02
-https://cdn.netcine.biz/html/content/conteudolb4/wv/01dub/WANDAVISION02DUB-ALTO.mp4?token=vwUlLcoF1qICQbG6xBuOjg&expires=1612160038&ip=189.27.228.21
+https://cdn.netcine.biz/html/content/conteudolb4/wv/01dub/WANDAVISION02DUB-ALTO.mp4
 
 #EXTINF:0  group-title="SERIE"  tvg-logo="https://imgs.netcine.biz/wp-content/uploads/2021/01/wandavision-poster-691x1024.jpg" subtitles="", MWANDA 03
-https://cdn.netcine.biz/html/content/conteudolb4/wv/01dub/WANDAVISION03DUB-ALTO.mp4?token=oMLMTLZtSwhlf0_EEv7q_A&expires=1612160085&ip=189.27.228.21
+https://cdn.netcine.biz/html/content/conteudolb4/wv/01dub/WANDAVISION03DUB-ALTO.mp4
 
-#EXTINF:0  group-title="SERIE"  tvg-logo="https://imgs.netcine.biz/wp-content/uploads/2021/01/wandavision-poster-691x1024.jpg" subtitles="", MWANDA 03
-https://cdn.netcine.biz/html/content/conteudolb4/wv/01dub/WANDAVISION03DUB-ALTO.mp4?token=oMLMTLZtSwhlf0_EEv7q_A&expires=1612160085&ip=189.27.228.21
+
+#ext
